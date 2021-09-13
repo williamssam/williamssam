@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Williams Samuel</h1>
-<h3 align="center">An aspiring full stack developer currently focused on frontend development</h3>
+<h3 align="center">An aspiring full stack developer currently focused on frontend development who is currently looking for developer roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamssam&label=Profile%20views&color=0e75b6&style=flat" alt="williamssam" /> </p>
 
