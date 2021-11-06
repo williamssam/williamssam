@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **samwill300@gmail.com**
 
-- 📄 Know about my experiences [https://williams-resume.netlify.app/](https://williams-resume.netlify.app/)
-
 - ⚡ Fun fact **I think I am funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
