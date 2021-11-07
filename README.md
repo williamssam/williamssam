@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/williams_codes" target="blank"><img src="https://img.shields.io/twitter/follow/williams_codes?logo=twitter&style=for-the-badge" alt="williams_codes" /></a> </p>
 
-- 🌱 I’m currently learning **React js, Next Js**
-
 - 👯 I’m looking to collaborate on **web and open source projects**
 
 - 🏢 I’m currently open to **internship and junior developer roles**
