@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://williamssam.netlify.app/](https://williamssam.netlify.app/)
 
-- 📫 How to reach me **samwill300@gmail.com**
+- 📫 Reach me on **samwill300@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny 😅🤣**
 
