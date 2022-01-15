@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Williams Samuel</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria, who is open to collaboration and currently looking for junior/entry level developer roles.</h3>
+<h3 align="center">A passionate frontend developer from Lagos, Nigeria currently looking for junior/entry level developer roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamssam&label=Profile%20views&color=0e75b6&style=flat" alt="williamssam" /> </p>
 
