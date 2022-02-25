@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Williams Samuel</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria currently looking for junior/entry level developer roles.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamssam&label=Profile%20views&color=0e75b6&style=flat" alt="williamssam" /> </p>
-
-<p align="left"> <a href="https://twitter.com/williams_codes" target="blank"><img src="https://img.shields.io/twitter/follow/williams_codes?logo=twitter&style=for-the-badge" alt="williams_codes" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript and GraphQL**
 
 - 👯 I’m looking to collaborate on **Web and open source projects**
