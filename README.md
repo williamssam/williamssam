@@ -6,7 +6,8 @@ Frontend Developer - React, Next
 
 I am a passionate frontend developer who loves deciphering challenging problems and currently looking for junior/entry level developer roles.
 
-<img src="https://pbs.twimg.com/profile_banners/1246440089053466629/1629307081/1500x500" />
+<a href="https://www.github.com/williamssam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/williamssam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://williamssam.netlify.app/)
@@ -14,8 +15,6 @@ I am a passionate frontend developer who loves deciphering challenging problems 
 * 🧠  I'm learning React Native, GraphQL
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/williamssam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/williamssam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
