@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/williamssam?logo=github&style=for-t
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://williamssam.netlify.app/)
 * ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
-* 🧠  I'm learning React Native, GraphQL
+* 🧠  I'm getting my hands dirty with React Native, Flutter
 * 🤝  I'm open to collaborating on interesting projects
 
 
