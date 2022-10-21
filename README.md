@@ -4,7 +4,7 @@ Hi 👋 My name is Samuel Williams
 Frontend Developer - React, Next
 --------------------------------
 
-I am a passionate frontend developer who loves deciphering challenging problems and currently looking for junior/entry level developer roles.
+I am a passionate frontend developer who loves deciphering challenging problems and building exceptional user interface. Open to frontend and mobile developer roles.
 
 <a href="https://www.github.com/williamssam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/williamssam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
