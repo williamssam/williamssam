@@ -1,7 +1,7 @@
 Hi 👋 My name is Samuel Williams
 ================================
 
-Frontend Developer - React, Next
+Frontend, Mobile Developer - React, Next, React Native
 --------------------------------
 
 I am a passionate frontend developer who loves deciphering challenging problems and building exceptional user interface. Open to frontend and mobile developer roles.
