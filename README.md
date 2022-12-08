@@ -1,19 +1,24 @@
 # Hey there 👋
 
-<h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Contact 🤙</h3>
-[![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://williamssam.netlify.app/)
-&nbsp;
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/williamssam/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/williams_codes/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamscodes/)
 
-Welcome to my page 😍! My name is **Williams Samuel**. I'm a **Frontend and Mobile Developer** from Lagos, Nigeria who is very passionate about deciphering challenging problems and building exceptional user interface.
+Welcome to my hub 😍! My name is **Williams Samuel**. I'm a **Frontend and Mobile Developer** from Lagos, Nigeria who is very passionate about deciphering challenging problems and building exceptional user interface.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
 - 🧠  I'm getting my hands dirty with **React Native**, **Flutter**
 - 🤝  I'm open to collaborating and contributing to interesting projects
+
+<br>
+
+<h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Contact 🤙</h3>
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://williamssam.netlify.app/)
+&nbsp;
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamssam/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/williams_codes/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamscodes/)
+
 
 <br>
 
