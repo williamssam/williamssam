@@ -9,7 +9,7 @@ Welcome 😍😎! My name is **Williams Samuel**. I'm a **Frontend and Mobile De
 
 <br>
 
-**Open to frontend and mobile developer roles. If you have an opening, kindly contact me**
+**_Open to frontend and mobile developer roles. If you have an opening, kindly contact me_**
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Contact 🤙</h3>
 
