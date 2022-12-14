@@ -1,13 +1,15 @@
 # Hey there 👋
 
 
-Welcome 😍😎! My name is **Williams Samuel**. I'm a **Frontend and Mobile Developer** from Lagos, Nigeria who is very passionate about deciphering challenging problems and building exceptional user interface. Open to frontend and mobile developer roles.
+Welcome 😍😎! My name is **Williams Samuel**. I'm a **Frontend and Mobile Developer** from Lagos, Nigeria who is very passionate about deciphering challenging problems and building exceptional user interface.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
 - 🧠  I'm getting my hands dirty with **React Native**, **Flutter**
 - 🤝  I'm open to collaborating and contributing to interesting projects
 
 <br>
+
+**Open to frontend and mobile developer roles. If you have an opening, kindly contact me**
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Contact 🤙</h3>
 
