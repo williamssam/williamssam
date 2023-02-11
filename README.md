@@ -1,7 +1,7 @@
 # Hey there 👋
 
 
-Welcome 😎! My name is **Williams Samuel**. I'm a **Frontend and Mobile Developer** from Lagos, Nigeria who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with all web technologies.
+Hi, I'm **Williams Samuel**, a **Frontend and Mobile Developer** who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with all web technologies.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
 - 🧠  I'm getting my hands dirty with **Flutter**
