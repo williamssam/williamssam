@@ -1,7 +1,7 @@
 # Hey there 👋
 
 
-Hi, I'm **Williams Samuel**, a **Frontend and Mobile Developer** who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with all web technologies.
+I'm **Williams Samuel**, a **Frontend and Mobile Developer** who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with all web technologies.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
 - 🧠  I'm getting my hands dirty with **Flutter**
