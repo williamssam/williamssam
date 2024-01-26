@@ -4,7 +4,7 @@
 I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with web and mobile technologies.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
-- 🧠  I'm getting my hands dirty with **Node js, Express js and Flutter**
+- 🧠  I'm getting my hands dirty with **Node js, Express js**
 - 🤝  I'm open to collaborating and contributing to interesting projects
 
 <br>
@@ -34,8 +34,6 @@ I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very pas
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <!-- ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) -->
 
 
