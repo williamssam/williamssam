@@ -17,7 +17,7 @@ I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very pas
 &nbsp;
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamssam/)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/williams_codes/)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fwilliams_codes%2F)
 &nbsp;
 
 <br>
