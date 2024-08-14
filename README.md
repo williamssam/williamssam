@@ -5,7 +5,7 @@ I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very pas
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
 - 🧠  I'm getting my hands dirty with **Node js, Express js**
-- 🤝  I'm open to collaborating and contributing to interesting projects
+- 🤝  I'm open to new roles, collaborating and contributing to interesting projects
 
 <br>
 
