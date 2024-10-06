@@ -4,7 +4,7 @@
 I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very passionate about deciphering challenging problems and building exceptional user interface. I love learning new technologies/languages, dealing with web and mobile technologies.
 
 - ✉️  You can contact me at [samwill300@gmail.com](mailto:samwill300@gmail.com)
-- 🧠  I'm getting my hands dirty with **Node js, Express js**
+- 🧠  I'm getting my hands dirty with **Go**
 - 🤝  I'm open to new roles, collaborating and contributing to interesting projects
 
 <br>
@@ -35,6 +35,8 @@ I'm **Williams Samuel**, a **Frontend and Mobile App Developer** who is very pas
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <!-- ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) -->
 
 
